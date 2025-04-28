@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hello World, I'm Gerald... aka. PhantomHerald!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Developer+by+Day+%F0%9F%92%BB;Ethical+Hacker+by+Night+%F0%9F%95%B5%EF%B8%8F;Gamer+At+Heart+%F0%9F%8E%AE;.+.+.+
-)](https://github.com/PhantomHerald)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&multiline=true&width=435&height=200&lines=Developer+by+dawn%2C+I+code+with+might%2C;Breaker+by+dusk%2C+a+phantom+of+night%2C;Gamer+in+soul%2C+forever+in+fight%2C;I+build%2C+I+breach%2C+I+game+till+light.)](https://git.io/typing-svg)
 
 
 ---

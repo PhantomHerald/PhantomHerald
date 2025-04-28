@@ -16,13 +16,13 @@ You can click the Preview link to take a look at your changes.
 )](https://github.com/PhantomHerald)
 
 
-
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
-
+---
 ## ⚡ Skills
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
+---
 
 ## 🧠 About Me
 - 💻 Crafting scalable software solutions during daylight.
@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/PhantomHerald/PhantomHerald/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>--->
 
----
+
 
 ## 🌐 Let's Connect
 

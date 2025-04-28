@@ -12,16 +12,16 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hello World, I'm Gerald... aka. PhantomHerald!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Developer+by+Day+%F0%9F%92%BB;Ethical+Hacker+by+Night+%F0%9F%95%B5%EF%B8%8F;Gamer+When+Destiny+Calls+%F0%9F%8E%AE;.+.+.+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Developer+by+Day+%F0%9F%92%BB;Ethical+Hacker+by+Night+%F0%9F%95%B5%EF%B8%8F;Gamer+When+The+War+Calls+%F0%9F%8E%AE;.+.+.+
 )](https://github.com/PhantomHerald)
 
 
 
----
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
----
+
 
 ## ⚡ Skills
 <p align="center">
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
----
+
 
 ## 🧠 About Me
 - 💻 Crafting scalable software solutions during daylight.

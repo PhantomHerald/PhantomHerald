@@ -95,7 +95,7 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Let's Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="[https://linkedin.com/in/"](https://www.linkedin.com/in/gerald-ankomah-a1a080309/) target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:ankomahgerald@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/></a>
 <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"/></a>
 <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/></a>

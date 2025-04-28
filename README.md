@@ -39,9 +39,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-
-## 🧠 About Me
 ---
+## 🧠 About Me
+
 - 💻 Crafting scalable software solutions during daylight.
 - 🕵️‍♂️ Hunting bugs and securing the cyberspace after dark.
 - 🎮 Embracing the thrill of gaming when destiny summons.

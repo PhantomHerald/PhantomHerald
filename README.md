@@ -21,16 +21,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
-
----
-
-## 🧠 About Me
-- 💻 Crafting scalable software solutions during daylight.
-- 🕵️‍♂️ Hunting bugs and securing the cyberspace after dark.
-- 🎮 Embracing the thrill of gaming when destiny summons.
-- 🚀 Building, Breaking, Learning, Repeating.
-<!--- 🌌 Constantly leveling up in AI, Web3, and Cybersecurity.--->
-
 ---
 
 ## ⚡ Skills
@@ -49,12 +39,22 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+---
+
+## 🧠 About Me
+- 💻 Crafting scalable software solutions during daylight.
+- 🕵️‍♂️ Hunting bugs and securing the cyberspace after dark.
+- 🎮 Embracing the thrill of gaming when destiny summons.
+- 🚀 Building, Breaking, Learning, Repeating.
+<!--- 🌌 Constantly leveling up in AI, Web3, and Cybersecurity.--->
+
+
 
 ---
 
-## 🚀 Featured Projects
+<!---## 🚀 Featured Projects
 
-<!---| 🚀 Project | 🛠 Description | ⚙️ Stack |
+| 🚀 Project | 🛠 Description | ⚙️ Stack |
 |:---------|:--------------|:------|
 | [CyberGuard 🔐](https://github.com/PhantomHerald/CyberGuard) | Open-source toolkit for ethical hacking & cybersecurity. | Python, Linux, Bash |
 | [PhantomBot 🤖](https://github.com/PhantomHerald/PhantomBot) | Smart evolving chatbot powered by NLP. | Python, TensorFlow |

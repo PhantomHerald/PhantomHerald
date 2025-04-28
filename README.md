@@ -10,9 +10,9 @@
 PhantomHerald/PhantomHerald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hello World, I'm PhantomHerald!
+# 👋 Hello World, I'm Gerald... aka. PhantomHerald!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Developer+by+Day+%F0%9F%92%BB;Ethical+Hacker+by+Night+%F0%9F%95%B5%EF%B8%8F;Gamer+When+Destiny+Calls+%F0%9F%8E%AE;+%F0%9F%92%BB)](https://github.com/PhantomHerald)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Developer+by+Day+%F0%9F%92%BB;Ethical+Hacker+by+Night+%F0%9F%95%B5%EF%B8%8F;Gamer+When+Destiny+Calls+%F0%9F%8E%AE;....+%F0%9F%92%BB)](https://github.com/PhantomHerald)
 
 ---
 <p align="center">

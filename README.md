@@ -104,5 +104,5 @@ You can click the Preview link to take a look at your changes.
 ---
 
 > 🕶️ *By daylight I craft the future. By moonlight I defend it. And sometimes... I rule it pixel by pixel....
-> lets play some games sometime. Meet me at steam by the same user name * 🎮🌑
+> lets play some games sometime. Meet me on steam by the same user name * 🎮🌑
 

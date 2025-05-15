@@ -10,7 +10,7 @@
 PhantomHerald/PhantomHerald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hello World, I'm Gerald... aka. PhantomHerald!
+# 👋 Hello World, I'm Gerald...
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&multiline=true&width=450&height=125&lines=Developer+by+dawn%2C+I+code+with+might%2C;Breaker+by+dusk%2C+a+phantom+of+night%2C;Gamer+in+soul%2C+forever+in+fight%2C;I+build%2C+I+breach%2C+I+game+till+light.)](https://git.io/typing-svg)
 
